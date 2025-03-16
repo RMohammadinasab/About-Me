@@ -17,12 +17,13 @@ I'm a penetration tester, cybersecurity expert, and backend developer with exten
 - **Databases:** Microsoft SQL Server (6 years), PostgreSQL  
 - **BI & Data Analytics:** Microsoft BI (SSIS, SSRS, SSAS)  
 
-### 📂 Projects  
-- [🔗 Path Traversal Scanner](https://github.com/RMohammadinasab/tools/tree/main/security-tools/PathTraversal) - Path Traversal Scanner Tool  
-- [🔗 XSS Parser](https://github.com/RMohammadinasab/tools/tree/main/security-tools/XSSParser) - Automated XSS scanning tool  
-- [🔗 Network Scanner](https://github.com/RMohammadinasab/tools/tree/main/security-tools/network-scanner) - Network Scanner Tool  
-- [🔗 WordPress Image Finder](https://github.com/RMohammadinasab/tools/tree/main/security-tools/wordpress-image-finder) - WordPress Image Finder Tool  
-- [🔗 Sensitive paths Scan](https://github.com/RMohammadinasab/tools/tree/main/security-tools/wordpress-sensitive-path-scan) - Sensitive paths Scan Tool  
+### 📂 Projects
+####  Security tools  
+- [🔗 Path Traversal Scanner](https://github.com/RMohammadinasab/security/tree/main/pentest-tools/PathTraversal) - Path Traversal Scanner Tool  
+- [🔗 XSS Parser](https://github.com/RMohammadinasab/security/tree/main/pentest-tools/XSSParser) - Automated XSS scanning tool  
+- [🔗 Network Scanner](https://github.com/RMohammadinasab/security/tree/main/pentest-tools/network-scanner) - Network Scanner Tool  
+- [🔗 WordPress Image Finder](https://github.com/RMohammadinasab/security/tree/main/pentest-tools/wordpress-image-finder) - WordPress Image Finder Tool  
+- [🔗 Sensitive paths Scan](https://github.com/RMohammadinasab/security/tree/main/pentest-tools/wordpress-sensitive-path-scan) - Sensitive paths Scan Tool  
 
 
 ### 📞 Contact Me  
