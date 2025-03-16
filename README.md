@@ -17,7 +17,7 @@ I'm a penetration tester, cybersecurity expert, and backend developer with exten
 - **Databases:** Microsoft SQL Server (6 years), PostgreSQL  
 - **BI & Data Analytics:** Microsoft BI (SSIS, SSRS, SSAS)  
 
-### 📂 Featured Projects  
+### 📂 Projects  
 - [🔗 Path Traversal Scanner](https://github.com/RMohammadinasab/tools/tree/main/security-tools/PathTraversal) - Path Traversal Scanner Tool  
 - [🔗 XSS Parser](https://github.com/RMohammadinasab/tools/tree/main/security-tools/XSSParser) - Automated XSS scanning tool  
 - [🔗 Network Scanner](https://github.com/RMohammadinasab/tools/tree/main/security-tools/network-scanner) - Network Scanner Tool  
